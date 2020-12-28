@@ -1,0 +1,22 @@
+{
+	"dockerfiles": {
+		"Dockerfile": [
+			{
+				"name": "python",
+				"tag": "3.8-slim",
+				"digest": "cede59c0e2fcbabed9b3094f1564917632ecdd11c25c2a275654946938225ef4"
+			}
+		]
+	},
+	"composefiles": {
+		"docker-compose.yml": [
+			{
+				"name": "python",
+				"tag": "3.8-slim",
+				"digest": "cede59c0e2fcbabed9b3094f1564917632ecdd11c25c2a275654946938225ef4",
+				"dockerfile": "Dockerfile",
+				"service": "backend"
+			}
+		]
+	}
+}
