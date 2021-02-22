@@ -4,7 +4,7 @@
 			{
 				"name": "python",
 				"tag": "3.8-slim",
-				"digest": "3efd67cc8c7c6038201c9715658a0a0ad6e547d5308982245dbb850e32e95004"
+				"digest": "4597bfc43b7c79a3a93c66940578179274924d94c5d6abd77d3bb326dae0d7f4"
 			}
 		]
 	},
@@ -13,7 +13,7 @@
 			{
 				"name": "python",
 				"tag": "3.8-slim",
-				"digest": "3efd67cc8c7c6038201c9715658a0a0ad6e547d5308982245dbb850e32e95004",
+				"digest": "4597bfc43b7c79a3a93c66940578179274924d94c5d6abd77d3bb326dae0d7f4",
 				"dockerfile": "Dockerfile",
 				"service": "backend"
 			}
